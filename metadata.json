@@ -1,0 +1,6 @@
+{
+  "name": "SHE-ACCESS Sanitary Dispenser Locator",
+  "description": "Public health network and live telemetry map for accessible, dignified menstrual hygiene dispensers, community vouchers, and real-time inventory.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
